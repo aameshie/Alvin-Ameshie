@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Alvin Ameshie</h1>
+<h1 align="center">Hi 👋🏾, I'm Alvin Ameshie</h1>
 <h3 align="center">A Passionate Frontend Developer from Cleveland,OH</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
